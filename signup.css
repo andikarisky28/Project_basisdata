@@ -1,0 +1,47 @@
+body{
+    background-color: #3d4c70;
+}
+form{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 0px;
+    text-align: center;
+    font-size: 18px;
+    width: 45%;
+    height: 100%;
+    padding: 5%;
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #A5AAB5;
+}
+
+h1{
+    color: #3d4c70;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 96px;
+}
+button{
+    margin: 10%;
+    color: #18a0fb;
+    border-radius: 7.91px;
+    width: 70%;
+    position: center;
+}
+label{
+    left: 10%;
+}
+.gambar1{
+position: absolute;
+left: 50%;
+right: 6.6%;
+top: 25%;
+bottom: 35.11%;
+}
+.dont{
+    color: #3d4c70;
+}

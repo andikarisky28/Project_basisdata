@@ -1,0 +1,15 @@
+html{
+    overflow-x: hidden;
+}
+.selesai{
+    margin-top: 15%;
+    position: relative;
+    bottom: 25%;
+    left: 25%;
+
+}
+button{
+    position: relative;
+    left: 2.55%;
+    width: 20%;
+}

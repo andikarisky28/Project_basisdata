@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+}
+form{
+    padding: 2%;
+    width: 50%;
+    position: absolute;
+    top: 1%;
+    left: 25%;
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    border-radius: 10%;
+}
+.judul{
+    width: 600px;
+    height: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 75px;
+    margin-bottom :30px;
+    color: #3D4C70;
+}
+
+.komun{
+    color: #8F96A6;
+    margin-left: 5px;
+}
